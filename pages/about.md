@@ -2,15 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-published: false
 ---
 
-Some information about you!
+# About
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I'm a product engineer primarily working with Ruby and Ruby on Rails.
