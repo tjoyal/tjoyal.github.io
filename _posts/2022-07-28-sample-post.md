@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Sample post
 date: '2022-07-28'
 published: true
