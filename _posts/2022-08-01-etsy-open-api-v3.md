@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Etsy Open API v3
+title: 'Tutorial: Etsy Open API v3 (ruby)'
+description: Step-by-step guide to communicating with Etsy API in Ruby.
+handle: etsy-open-api-v3
 date: '2022-08-01'
 published: true
-handle: etsy-open-api-v3
 ---
 
-# Etsy Open API v3
+# Tutorial: Etsy Open API v3 (ruby)
 
 Nothing better to test a blog's capabilities than making some personal notes public. I have been hacking around Etsy APIs to extract some sales data from their backend and send it to some custom spreadsheets.
 
@@ -16,7 +17,7 @@ Sure I could have used the limited [CSV export](https://help.etsy.com/hc/en-us/a
 
 Some [documentation](https://developer.etsy.com/documentation/) exists and there is an [API reference](https://developer.etsy.com/documentation/reference/) section which gives a good idea of what is available. Worth having a look before considering the advanced engineering path.
 
-One thing that I’ll mention upfront is that you need to create an application in the developer dashboard in order to get a valid API key. It can take a few days for an application to be approved by their team and the API key will not work until then. It is worth it to [create an app](https://www.etsy.com/developers/documentation/getting_started/register) ASAP so the review process does not become a blocker.
+One thing that I’ll mention upfront is that you need to create an application in the developer dashboard to get a valid API key. It can take a few days for an application to be approved by their team and the API key will not work until then. It is worth it to [create an app](https://www.etsy.com/developers/documentation/getting_started/register) ASAP so the review process does not become a blocker.
 
 ## Ruby implementation
 

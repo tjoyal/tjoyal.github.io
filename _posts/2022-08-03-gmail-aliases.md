@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Gmail aliases
+title: 'Tutorial: Gmail aliases'
+description: Configure Gmail “from” aliases for free.
+handle: gmail-aliases
 date: '2022-08-03'
 published: true
-handle: gmail-aliases
 ---
 
-# Gmail aliases
+# Tutorial: Gmail aliases
 
 I always end up with some vanity domain and would like to send emails from them. There are different ways to achieve this goal. The following is free and simple.
 
@@ -26,11 +27,11 @@ I personally use [Google Domains](https://domains.google.com/) and simply use th
 
 Before we can configure the alias in Gmail, we will need to go create what is called an "App passwords".
 
-Technically, I think this step is only required if you use 2-Step-Verification on your account. I will presume you are and if not I will encourage you to look into it. Additional security of what is one of the most important asset you possess, your online identity, is very important.
+Technically, I think this step is only required if you use 2-Step-Verification on your account. I will presume you are and if not I will encourage you to look into it. Additional security of what is one of the most important assets you possess, your online identity, is very important.
 
-App passwords are 16 characters long codes that can act as secondary passwords of your Google account. Their special characteristic is they bypass 2FA.
+App passwords are 16 character long codes that can act as secondary passwords for your Google account. Their special characteristic is they bypass 2FA.
 
-With great power comes great responsability, you will want to use it during the alias configuration steps then make sure you delete any noted taken during the process for security reasons. You will not want for anyone to stumble on this priviledged key.
+With great power comes great responsibility, you will want to use it during the alias configuration steps then make sure you delete any notes taken during the process for security reasons. You will not want anyone to stumble on this privileged key.
 
 App passwords are created from your [Google account](https://myaccount.google.com/), under [Security](https://myaccount.google.com/security) in the "Signing in to Google" section.
 
@@ -92,5 +93,5 @@ The process will ask you for a confirmation code. This code will be sent to the 
 
 <img src="/assets/posts/gmail-aliases/images/image10.png" width="409" height="81">
 
-Once the code is entered, the alias will has been created successfully!
+Once the code is entered, the alias will have been created successfully!
 
